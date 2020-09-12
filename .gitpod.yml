@@ -1,1 +1,1 @@
-image: rocker/rstudio
+image: rocker/r-base
